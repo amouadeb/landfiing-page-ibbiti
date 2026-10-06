@@ -2,6 +2,8 @@
 
 Protótipo acadêmico do projeto IBITI Token (Inteli M07 / G04), com apresentação da Série V1, aquisição simulada e carteira de exemplo.
 
+**Site publicado:** https://deploy-landing-page-ibbiti.vercel.app
+
 ## Estrutura
 
 - `site/`: landing executável, CSS, JavaScript, imagens e fontes.
@@ -11,7 +13,7 @@ Abra `site/index.html` no navegador. Clique em **Entrar** sem informar credencia
 
 ## Publicação automática
 
-Conecte este repositório a um projeto Vercel com Root Directory `site`, framework Other, sem etapa de build, e branch de produção `main`. Depois da conexão Git, cada commit enviado a `main` atualiza o site de produção.
+O projeto `deploy-landing-page-ibbiti` na equipe MOUA da Vercel está conectado a este repositório. O Root Directory é `site`, o framework é Other e a branch de produção é `main`. Commits enviados a `main` geram novas implantações automaticamente; branches e pull requests podem receber prévias.
 
 Edite os arquivos em `site/`, faça commit e envie para `main`. Os números dinâmicos do protótipo estão em `TOKENOMICS`, em `site/app.js`.
 
