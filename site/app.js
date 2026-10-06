@@ -1,6 +1,6 @@
-// Premissas acadêmicas da Série V1, usadas apenas para informar a landing page.
+// Premissas acadêmicas da Série V2, data-base setembro de 2026.
 const TOKENOMICS = Object.freeze({
-  price: 113763,
+  price: 105464,
   benefitFace: 780,
   benefitCost: 24960,
   benefitUse: 41600,
