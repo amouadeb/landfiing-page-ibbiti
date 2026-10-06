@@ -26,6 +26,8 @@ Edite os arquivos em `site/`, faça commit e envie para `main`. Os números din�
 
 O conteúdo foi reconciliado com o *IBITI Memorando de Oferta V2* e a planilha *Valuation_Token_V2.xlsx*, ambos com data-base setembro de 2026. O preço-base exibido corresponde ao cenário base da aba `Valuation` (célula `F7`), arredondado para R$ 105.464. Os valores do Token B vêm da aba `Premissas` (`B24`, `B26` e `B28`). O memorando e a planilha não são publicados junto com a landing.
 
+Os destaques de experiências e o PDF público `site/assets/catalogo-beneficios-ibiti-v2.pdf` foram preparados a partir de *Catálogo de Benefícios.md* (120 itens). O PDF traz os valores de tabela e de resgate como referências, sujeitos à confirmação operacional. A coluna de quantidades de "Tokens" do arquivo de trabalho não foi publicada porque diverge da regra de conversão do Token B da Série V2; o catálogo final deverá ser validado antes de qualquer oferta ou resgate.
+
 ## Escopo
 
 Esta é apenas uma landing page informativa. Não há cadastro, login, carteira, checkout, pagamento, backend ou emissão de tokens. O conteúdo é acadêmico e não representa oferta vigente.
