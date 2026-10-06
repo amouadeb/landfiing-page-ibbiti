@@ -1,13 +1,13 @@
 # Landing page IBBITI
 
-Landing page acadêmica do projeto IBITI Token (Inteli M07 / G04), com apresentação da Série V1, das experiências associadas e dos riscos.
+Landing page acadêmica do projeto IBITI Token (Inteli M07 / G04), com apresentação da Série V2, das experiências associadas e dos riscos.
 
 **Site publicado:** https://deploy-landing-page-ibbiti.vercel.app
 
 ## Estrutura
 
 - `site/`: landing executável, CSS, JavaScript, imagens e fontes.
-- `design/`: telas PNG/SVG e contexto da V1.
+- `design/`: telas PNG/SVG e referências visuais da primeira versão.
 
 Abra `site/index.html` no navegador. A apresentação é pública e abre diretamente, sem cadastro ou login.
 
@@ -21,6 +21,10 @@ Branch de produção: `main`.
 Depois da conexão Git na Vercel, cada push em `main` atualiza o site de produção. Branches e pull requests recebem prévias conforme a configuração do projeto. Não é necessário criar um novo projeto nem executar um deploy manual a cada alteração.
 
 Edite os arquivos em `site/`, faça commit e envie para `main`. Os números dinâmicos do protótipo estão em `TOKENOMICS`, em `site/app.js`.
+
+## Fontes da Série V2
+
+O conteúdo foi reconciliado com o *IBITI Memorando de Oferta V2* e a planilha *Valuation_Token_V2.xlsx*, ambos com data-base setembro de 2026. O preço-base exibido corresponde ao cenário base da aba `Valuation` (célula `F7`), arredondado para R$ 105.464. Os valores do Token B vêm da aba `Premissas` (`B24`, `B26` e `B28`). O memorando e a planilha não são publicados junto com a landing.
 
 ## Escopo
 
