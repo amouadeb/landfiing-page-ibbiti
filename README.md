@@ -42,9 +42,9 @@ Ao longo do projeto, a landing mudou com a própria solução. A exploração in
 
 ### Identidade visual e referências
 
-Tomamos como referência o [site oficial da IBITI](https://ibiti.com/pt-br/), que apresenta o território por meio da natureza, das hospedagens e das vivências. Queríamos que a landing do Token I mantivesse essa ligação reconhecível com a IBITI, mas tivesse uma composição própria para explicar uma proposta diferente: a participação temporária nos royalties e os créditos para experiências. Por isso, usamos fotografias do ecossistema IBITI como contexto do território e deixamos claro na página que elas não mostram o futuro Glamping.
+Quando pensamos no visual da landing, queríamos que ela ainda lembrasse a IBITI. No [site oficial](https://ibiti.com/pt-br/), a natureza, o território e as experiências aparecem o tempo todo. Por isso, usamos fotografias da própria IBITI, tons de verde que lembram a paisagem e um fundo claro que deixa a leitura mais leve. O tom de areia também ajuda a trazer a sensação de acolhimento que associamos às hospedagens.
 
-Escolhemos o verde escuro e o verde mineral para remeter à paisagem e dar continuidade à identidade ligada à natureza. O fundo claro e o tom de areia trazem respiro e acolhimento, em vez de uma aparência de plataforma de negociação financeira. A tipografia com serifa dá destaque editorial às mensagens principais; a fonte sem serifa organiza explicações, números e condições de forma mais fácil de ler. Fotografias amplas, espaços em branco e seções numeradas conduzem a leitura do lugar e da proposta até os tokens, as experiências e os riscos. Assim, o visual aproxima a operação tokenizada do contexto de hospitalidade da IBITI sem copiar a estrutura do site institucional.
+Ao mesmo tempo, precisávamos explicar uma proposta nova sem copiar o site da IBITI. Organizamos a página para que alguém interessado no projeto, mesmo sem conhecer blockchain, consiga entender o que receberia com o Token I, para que serve o Token B e o que ainda depende do futuro Glamping. Nossa intenção foi manter a identidade da IBITI e passar uma mensagem clara a esse possível investidor. As fotos mostram o território e as experiências que já existem, não o Glamping que ainda é um projeto.
 
 ### MCPs, ferramentas e conexões efetivamente usados
 
@@ -59,15 +59,13 @@ Escolhemos o verde escuro e o verde mineral para remeter à paisagem e dar conti
 
 ## Fontes da Série V2
 
-O conteúdo foi reconciliado com o *IBITI Memorando de Oferta V2* e a planilha *Valuation_Token_V2.xlsx*, ambos com data-base setembro de 2026. O preço-base exibido corresponde ao cenário base da aba `Valuation` (célula `F7`), arredondado para R$ 105.464. Os valores do Token B vêm da aba `Premissas` (`B24`, `B26` e `B28`). O memorando e a planilha não são publicados junto com a landing.
+O conteúdo foi reconciliado com o *IBITI Memorando de Oferta V2* e a planilha [*Valuation_Token_V2.xlsx*](Valuation_Token_V2.xlsx), ambos com data-base setembro de 2026. O preço-base exibido corresponde ao cenário base da aba `Valuation` (célula `F7`), arredondado para R$ 105.464. Os valores do Token B vêm da aba `Premissas` (`B24`, `B26` e `B28`). O memorando não está publicado aqui. A planilha pode ser consultada no repositório como registro da modelagem acadêmica; seus valores são premissas sujeitas a revisão, não um preço de oferta vigente.
 
 Os destaques de experiências e o PDF público `site/assets/catalogo-beneficios-ibiti-v2.pdf` foram preparados a partir de *Catálogo de Benefícios.md* (120 itens). O PDF traz os valores de tabela e de resgate como referências, sujeitos à confirmação operacional. A coluna de quantidades de “Tokens” do arquivo de trabalho não foi publicada porque diverge da regra de conversão do Token B da Série V2; o catálogo final deverá ser validado antes de qualquer oferta ou resgate.
 
 ## Decisões de comunicação
 
 A jornada da página prioriza a pessoa que pretende frequentar o território IBITI e usar as experiências Token B, enquanto busca entender o direito econômico do Token I. A narrativa segue a ordem: proposta e estágio atual do Glamping, origem do royalty, função de cada token, exemplos de uso e limites da Série. Não há chamada para compra: a operação e a oferta ainda não estão ativas.
-
-O texto distingue dados do modelo (como o preço-base estimado em setembro de 2026), eventos futuros previstos (como a abertura do Glamping) e fatos presentes (como a ausência de operação e de oferta vigente). Termos técnicos são explicados no contexto de uso. Conteúdo e interface foram elaborados com apoio de IA e comparados às fontes acima; o catálogo recebido não informa data de revisão. As fontes e premissas foram mantidas neste README para consulta, sem ocupar espaço na landing.
 
 ### Da landing à aplicação
 
