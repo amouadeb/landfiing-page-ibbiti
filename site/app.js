@@ -6,24 +6,6 @@ const TOKENOMICS = Object.freeze({
   benefitUse: 41600,
 });
 
-// Preencher apenas com a URL pública e verificada da aplicação do grupo.
-const APPLICATION_URL = '';
-
-const applicationLink = document.getElementById('application-link');
-const applicationPending = document.getElementById('application-pending');
-if (APPLICATION_URL) {
-  try {
-    const destination = new URL(APPLICATION_URL);
-    if (destination.protocol === 'https:') {
-      applicationLink.href = destination.href;
-      applicationLink.hidden = false;
-      applicationPending.hidden = true;
-    }
-  } catch {
-    // Mantém o estado de preparação até existir uma URL válida.
-  }
-}
-
 const brl = value => new Intl.NumberFormat('pt-BR', {
   style: 'currency',
   currency: 'BRL',

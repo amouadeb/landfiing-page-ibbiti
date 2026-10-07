@@ -12,7 +12,6 @@ p.flow-note{font-size:12px;line-height:1.7}
 .closing p{max-width:720px;margin-inline:auto}
 .closing .closing-intro{max-width:670px}
 .closing-actions{display:flex;justify-content:center;align-items:center;gap:22px;flex-wrap:wrap}
-.application-pending{display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:14px 24px;border:1px solid #79968c;border-radius:3px;color:#d9e4dd;font-size:13px;line-height:1.5}
 .closing-contact{color:#f7f6f1;font-size:13px;text-underline-offset:5px}
 .closing-contact:hover{color:#d9e4dd}
 .closing .closing-clarifier{margin:20px auto 0;font-size:11px;line-height:1.6;color:#c3d1c9}
