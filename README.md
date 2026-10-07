@@ -4,6 +4,17 @@
 **Site publicado:** https://deploy-landing-page-ibbiti.vercel.app  
 **Repositório no GitHub:** [amouadeb/landfiing-page-ibbiti](https://github.com/amouadeb/landfiing-page-ibbiti)
 
+**Aplicação final do grupo (protótipo acadêmico):** https://g04-a93a9c.pages.git.inteli.edu.br/
+
+Para acessar a demonstração, use uma das contas exibidas na própria tela da aplicação:
+
+| E-mail de demonstração | Senha |
+| --- | --- |
+| `ana.nogueira@ibiti.holders` | `Glamping2027` |
+| `bruno.vale@ibiti.holders` | `Royalty15` |
+
+Essas credenciais servem apenas para explorar o protótipo; não dão acesso a uma operação real da IBITI.
+
 ## Briefing e processo de criação
 
 Para a realização da landing page, a primeira etapa foi a prototipagem e a criação de rascunhos em sala de aula com a professora Bruna, no dia 16/09/2026, quando aprendemos a utilizar MCPs para criar landing pages. Antes de começar com o prompt e as conexões dos MCPs, fizemos um rascunho no papel de como nossa landing page seria feita: se teria login, já que a IBITI queria alcançar um público de nicho e oferecer mais privacidade; se colocaríamos uma tela de pagamento; e se ofereceríamos outras ações logo de cara.
@@ -29,11 +40,17 @@ Ao longo do projeto, a landing mudou com a própria solução. A exploração in
 9. **Ligar a landing à aplicação do grupo.** Depois que a URL pública foi disponibilizada, substituímos o aviso “Link da aplicação em breve” por “Ver a proposta em ação”, com acesso direto à [aplicação do grupo](https://g04-a93a9c.pages.git.inteli.edu.br/). A página de destino solicita identificação e informa contas de demonstração. A seção final da landing deixou de mostrar o contato da IBITI, mantendo o foco nessa passagem entre os dois artefatos.
 10. **Verificar e preparar a publicação.** Foram conferidos conteúdo, imagens, menu móvel, navegação, links, console e layout em desktop e celular. A publicação é feita por commit na branch `main` do GitHub conectado à Vercel, seguida de conferência na URL de produção.
 
+### Identidade visual e referências
+
+Tomamos como referência o [site oficial da IBITI](https://ibiti.com/pt-br/), que apresenta o território por meio da natureza, das hospedagens e das vivências. Queríamos que a landing do Token I mantivesse essa ligação reconhecível com a IBITI, mas tivesse uma composição própria para explicar uma proposta diferente: a participação temporária nos royalties e os créditos para experiências. Por isso, usamos fotografias do ecossistema IBITI como contexto do território e deixamos claro na página que elas não mostram o futuro Glamping.
+
+Escolhemos o verde escuro e o verde mineral para remeter à paisagem e dar continuidade à identidade ligada à natureza. O fundo claro e o tom de areia trazem respiro e acolhimento, em vez de uma aparência de plataforma de negociação financeira. A tipografia com serifa dá destaque editorial às mensagens principais; a fonte sem serifa organiza explicações, números e condições de forma mais fácil de ler. Fotografias amplas, espaços em branco e seções numeradas conduzem a leitura do lugar e da proposta até os tokens, as experiências e os riscos. Assim, o visual aproxima a operação tokenizada do contexto de hospitalidade da IBITI sem copiar a estrutura do site institucional.
+
 ### MCPs, ferramentas e conexões efetivamente usados
 
 | Recurso | Papel no trabalho e limite |
 | --- | --- |
-| Codex / IA generativa | Apoio à síntese, redação, implementação e revisão. As afirmações econômicas foram comparadas aos documentos V2. O uso de IA também é declarado na landing. |
+| Codex / IA generativa | Apoio à síntese, redação, implementação e revisão. As afirmações econômicas foram comparadas aos documentos V2. O uso de IA está declarado neste README. |
 | Figma MCP | Criação do arquivo e exploração inicial de frames; a escrita parou no limite do plano Starter. O Figma não é descrito como versão final da página. |
 | shadcn MCP | Consulta a padrões de Button e Input na exploração inicial. A landing final usa HTML/CSS próprios, sem instalar componentes shadcn. |
 | Mobbin MCP | O acesso autenticado não estava disponível na sessão registrada. Referências Mobbin não foram usadas nem apresentadas como fonte da interface. |
