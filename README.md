@@ -46,6 +46,14 @@ Quando pensamos no visual da landing, queríamos que ela ainda lembrasse a IBITI
 
 Ao mesmo tempo, precisávamos explicar uma proposta nova sem copiar o site da IBITI. Organizamos a página para que alguém interessado no projeto, mesmo sem conhecer blockchain, consiga entender o que receberia com o Token I, para que serve o Token B e o que ainda depende do futuro Glamping. Nossa intenção foi manter a identidade da IBITI e passar uma mensagem clara a esse possível investidor. As fotos mostram o território e as experiências que já existem, não o Glamping que ainda é um projeto.
 
+### O que o visitante encontra na landing page
+
+A landing apresenta o projeto, explica a diferença entre o Token I e o Token B e mostra como foram pensados o direito econômico e os créditos para experiências. Também deixa claros o estágio atual do Glamping e os riscos da proposta.
+
+Na seção de experiências, o visitante vê quatro exemplos de benefícios e pode clicar em **“Baixar catálogo completo (PDF)”** para salvar e consultar as demais opções. Os benefícios apresentados são referências: disponibilidade, agendamento e condições de uso ainda precisam ser confirmados.
+
+Depois de conhecer a proposta e seus limites, o visitante pode clicar em **“Ver a proposta em ação”**. Esse botão abre a [aplicação demonstrativa](https://g04-a93a9c.pages.git.inteli.edu.br/), onde é possível explorar com mais detalhes a jornada digital prevista para a Série V2. A landing, por si só, não exige cadastro e não realiza compras ou pagamentos.
+
 ### MCPs, ferramentas e conexões efetivamente usados
 
 | Recurso | Papel no trabalho e limite |
