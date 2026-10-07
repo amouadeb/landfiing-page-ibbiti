@@ -26,7 +26,7 @@ Ao longo do projeto, a landing mudou com a própria solução. A exploração in
 6. **Atualizar a Série V2.** O memorando e a planilha V2 substituíram valores anteriores. A página passou a identificar o preço como estimativa com data-base, os recebimentos como dependentes de receita futura e o Glamping como projeto ainda não operacional.
 7. **Selecionar benefícios sem sobrecarregar a leitura.** Quatro exemplos de categorias diferentes aparecem na página. Um PDF baixável reúne o catálogo mais amplo, com ressalvas sobre disponibilidade e valores de referência.
 8. **Revisar o texto pela ótica de quem chega pela primeira vez.** A primeira dobra explica a proposta em uma frase. O fluxo do royalty é descrito em etapas; hash e USDC têm explicações contextualizadas. O público principal, os riscos, as fontes, as premissas e o uso de IA são explicitados. Feedbacks da professora em outros trabalhos serviram como alerta para evitar rótulos vagos, premissas ocultas e texto pequeno; exigências específicas daqueles artefatos não foram importadas para este barema.
-9. **Preparar a passagem à aplicação do grupo.** O encerramento diferencia a aplicação acadêmica do contato da IBITI para vivências reais. Até existir uma URL pública verificada, a página sinaliza “Link da aplicação em breve”, sem apresentar um botão falso. A configuração do futuro link está em `APPLICATION_URL`, no início de `site/app.js`.
+9. **Ligar a landing à aplicação do grupo.** O encerramento diferencia a aplicação acadêmica do contato da IBITI para vivências reais. Depois que a URL pública foi disponibilizada, substituímos o aviso “Link da aplicação em breve” por um acesso direto à [aplicação do grupo](https://g04-a93a9c.pages.git.inteli.edu.br/). A página de destino solicita identificação e informa contas de demonstração.
 10. **Verificar e preparar a publicação.** Foram conferidos conteúdo, imagens, menu móvel, navegação, seção expansível de fontes, console e layout em desktop e celular. A publicação é feita por commit na branch `main` do GitHub conectado à Vercel, seguida de conferência na URL de produção.
 
 ### MCPs, ferramentas e conexões efetivamente usados
@@ -55,5 +55,4 @@ O texto distingue dados do modelo (como o preço-base estimado em setembro de 20
 ### Da landing à aplicação
 
 A landing funciona como a **porta de entrada pública**: uma pessoa sem familiaridade com blockchain pode entender a proposta, conferir exemplos de benefícios e reconhecer os riscos antes de abrir outro artefato. A aplicação do grupo é a **continuação demonstrativa da jornada digital**; ela não deve ser confundida com o site oficial da IBITI nem com uma oferta ou compra ativa. A chamada fica ao final, depois das explicações e dos limites, para que o visitante não seja enviado prematuramente a uma interface mais complexa.
-
 
